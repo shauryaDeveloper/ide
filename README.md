@@ -35,7 +35,7 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 ## Features
 This responsive online code editor and compiler have the following features.
 
-|Feature|Deatils|
+|Feature|Details|
 |-------|-------|
 |**Multiple Language Support**|C, C++, Java, Python, Java Script.|
 |**Upload Code**|Code can be uploaded from local system|
